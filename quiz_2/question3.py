@@ -1,4 +1,3 @@
-#function that takes the head of a linked list and returns the reversed list
 class Node:
     def __init__(self, data):
         self.data = data
